@@ -4,5 +4,5 @@
 #1. Tools
 #2. Videos
 #3. Books 
-#4. 
-# Items held in this github repo is provided through various channels and the sources are included as best as possible.
+#4. Examples
+# Items held in this github reposiotry is provided through various channels and the sources or linkes are included for ease of use
